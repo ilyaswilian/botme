@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="ELAINA BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ELAINA BOT" src="https://img.shields.io/badge/Ilyas Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Ilyas-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TobyG74/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
@@ -32,10 +32,10 @@ ownerNumber = "6213xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/JuwROWyZh70Gn8rrmtReyu)
+- [TELEGRAM](https://t.me/ilyaswilian)
+- [WHATSAPP](https://wa.me/62895704283153)
+- [MY BOT](wa.me/62895704283153)
+- [WHATSAPP GROUP](https://chat.whatsapp.com/C3iekIhPdtE2U6S7VjecTV)
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
@@ -66,8 +66,8 @@ Note : Kalo Mau Work, Centang Kolom 1,2,3,5,6
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/ilyaswilian/botme
+> cd botme
 ```
 
 Install the dependencies:
@@ -209,7 +209,7 @@ after running it you need to scan the qr
 |       ✅        |   Listblock                     |
 |       ✅        |   Listbanned                    |
 |       ✅        |   Listgroup                     |
-|       ✅        |   Get Elaina Admin list         |
+|       ✅        |   Get Ilyas Admin list         |
 |       ✅        |   Get owner group               |
 |       ✅        |   Get group info                |
 |       ✅        |   enable or disable nsfw command|
@@ -238,8 +238,8 @@ after running it you need to scan the qr
 |       ✅        |   Getses                        |
 |       ✅        |   Banchat                       |
 |       ✅        |   Maintenance                   |
-|       ✅        |   Add Admin Elaina              |
-|       ✅        |   Del Admin Elaina              |
+|       ✅        |   Add Admin Ilyas               |
+|       ✅        |   Del Admin Ilyas               |
 |       ✅        |   Block                         |
 |       ✅        |   Unblock                       |
 |       ✅        |   Join Group                    |
